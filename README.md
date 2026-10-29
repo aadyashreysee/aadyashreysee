@@ -84,7 +84,7 @@ Through my internships, academic projects, and leadership experiences, I've deve
 ## 📜 Certifications
 
 - **Marketing Analytics** - Semrush Academy, 2024
-- **Advanced Excel** — Coursera, 2022
+- **Advanced Excel** - Coursera, 2022
 
 ## 🌟 Interests
 
@@ -100,6 +100,7 @@ Through my internships, academic projects, and leadership experiences, I've deve
 I'm open to connecting with students, professionals, and people interested in business, management, and technology.
 
 •⁠  ⁠*LinkedIn:www.linkedin.com/in/aadya-shreysee-119192234* 
+
 •⁠  ⁠*Location:* New Delhi, India
 
 I'm always eager to learn, explore new perspectives, and collaborate on projects that connect research, business strategy, finance, and technology.
