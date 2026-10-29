@@ -40,14 +40,14 @@ Through my internships, academic projects, and leadership experiences, I've deve
 
 **Focus:** Artificial Intelligence | Risk Analysis | Decision Support | Research
 
-### 📊 COMET — Business Analysis
+### 📊 COMET - Business Analysis
 - Analysed the business environment and competitive landscape using established strategic frameworks.
 - Applied PESTLE, Porter's Five Forces, SWOT, and TOWS to identify challenges and strategic opportunities.
 - Translated research findings into a structured strategic perspective and visual output.
 
 **Focus:** Business Strategy | Competitive Analysis | Strategic Frameworks
 
-### 🛍️ Mall Immersion — Field Research
+### 🛍️ Mall Immersion - Field Research
 - Conducted primary research comparing Nike, Adidas, and New Balance across two malls.
 - Gathered insights by interacting with salespersons, store managers, and customers.
 - Examined brand positioning and customer experience through direct observation and interviews.
@@ -56,21 +56,21 @@ Through my internships, academic projects, and leadership experiences, I've deve
 
 ## 💼 Experience
 
-### 🏟️ Sports For All — Event Management Intern
+### 🏟️ Sports For All - Event Management Intern
 - Prepared event instructions and materials for 150+ attendees, helping reduce participant queries by approximately 30%.
 - Managed end-to-end registration and resolved participant queries.
 - Reviewed event logs to identify areas for improvement in future events.
 
-### 🌱 Hamari Pehchan NGO — Social Entrepreneurship Intern
+### 🌱 Hamari Pehchan NGO - Social Entrepreneurship Intern
 - Worked with a team of four to design and execute social media campaigns, contributing to an approximately 25% increase in engagement.
 - Researched content trends and audience interests across 10+ similar NGOs.
 - Supported email communication, campaign planning, and daily research activities.
 
-### 🎶 Doon Music Festival (GRAFEST) — Event Management Volunteer
+### 🎶 Doon Music Festival (GRAFEST) - Event Management Volunteer
 - Supervised on-ground logistics for an event attended by 1,000+ people.
 - Collaborated with the organising team to prepare event proposals and support timely approvals.
 
-### 🏟️ Sports For All — Event Management Intern
+### 🏟️ Sports For All - Event Management Intern
 - Prepared instructions for 100+ participants and supported registration management.
 - Helped reduce event-day confusion by approximately 25%.
 
@@ -83,7 +83,7 @@ Through my internships, academic projects, and leadership experiences, I've deve
 
 ## 📜 Certifications
 
-- **Marketing Analytics** — Semrush Academy, 2024
+- **Marketing Analytics** - Semrush Academy, 2024
 - **Advanced Excel** — Coursera, 2022
 
 ## 🌟 Interests
@@ -97,6 +97,10 @@ Through my internships, academic projects, and leadership experiences, I've deve
 - 🌱 Social Impact & Entrepreneurship
 
 ## 📫 Let's Connect!
+I'm open to connecting with students, professionals, and people interested in business, management, and technology.
+
+•⁠  ⁠*LinkedIn:www.linkedin.com/in/aadya-shreysee-119192234* 
+•⁠  ⁠*Location:* New Delhi, India
 
 I'm always eager to learn, explore new perspectives, and collaborate on projects that connect research, business strategy, finance, and technology.
 
